@@ -16,7 +16,7 @@ This is a customer approval module.
     'depends': ['sale'],
     'data': [  
         'security/customer_approval.xml',
-        'views/res_config_view.xml',
+        'views/res_company_view.xml',
         'views/res_partner_view.xml'
     ],
     'demo': [  ],
